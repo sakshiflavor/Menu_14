@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
 
-<body style="background-color: gray;">
+<body style="background-color: black;">
    <div style="text-align: center;">
   <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
     <img src="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png" alt="Description" style="width: 300px;">
@@ -16,12 +16,12 @@
 Mojito
     <br>
     <h3>
- <p style="word-spacing: 115px; text-align: Center;">Classic_Virgin_Mojito ₹90</p>
-      <p style="word-spacing: 120px; text-align: Center;">Sea_Curacao_Mojito ₹115</p>
-      <p style="word-spacing: 140px; text-align: Center;">Red_Velvet_Mojito ₹120</p>
-      <p style="word-spacing: 180px; text-align: Center;">Lychee_Mojito  ₹125</p>
-       <p style="word-spacing: 145px; text-align: Center;">Blueberry_Mohijto  ₹125</p>
-       <p style="word-spacing: 120px; text-align: Center;">Black_Current_Mojito     ₹125</p>
+ <p style="word-spacing: 115px; text-align: Center; color: white;">Classic_Virgin_Mojito ₹90</p>
+      <p style="word-spacing: 120px; text-align: Center; color: white;">Sea_Curacao_Mojito ₹115</p>
+      <p style="word-spacing: 140px; text-align: Center; color: white;">Red_Velvet_Mojito ₹120</p>
+      <p style="word-spacing: 180px; text-align: Center; color: white;">Lychee_Mojito  ₹125</p>
+       <p style="word-spacing: 145px; text-align: Center; color: white;">Blueberry_Mohijto  ₹125</p>
+       <p style="word-spacing: 120px; text-align: Center; color: white;">Black_Current_Mojito     ₹125</p>
  </h3>
     <br>
      <h2 style="text-align: Center; color: Orange;">
